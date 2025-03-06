@@ -1,0 +1,45 @@
+{
+    "company": "Tech Innovators Inc.",
+    "employees": [
+      {
+        "id": 101,
+        "name": "Alice Johnson",
+        "position": "Software Engineer",
+        "department": "Development",
+        "skills": ["Python", "JavaScript", "React", "FastAPI"],
+        "hire_date": "2022-03-15",
+        "is_full_time": true,
+        "salary": {
+          "base": 85000,
+          "bonus": 5000
+        }
+      },
+      {
+        "id": 102,
+        "name": "Bob Smith",
+        "position": "Data Scientist",
+        "department": "Analytics",
+        "skills": ["Python", "Machine Learning", "Pandas", "Spark"],
+        "hire_date": "2020-11-01",
+        "is_full_time": true,
+        "salary": {
+          "base": 95000,
+          "bonus": 7000
+        }
+      },
+      {
+        "id": 103,
+        "name": "Clara Lee",
+        "position": "Intern",
+        "department": "Marketing",
+        "skills": ["Content Writing", "SEO", "Google Analytics"],
+        "hire_date": "2024-06-01",
+        "is_full_time": false,
+        "salary": {
+          "base": 15000,
+          "bonus": 0
+        }
+      }
+    ]
+  }
+  
