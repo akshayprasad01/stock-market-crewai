@@ -1,0 +1,4 @@
+crewai==0.30.11
+langchain-google-genai==1.0.4
+yfinance
+crewai-tools
